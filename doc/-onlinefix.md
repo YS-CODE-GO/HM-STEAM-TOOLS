@@ -1,7 +1,5 @@
 # 联机修复
 
-<img src="../src/assets/icon.png" width="128" height="128" alt="HM-ST-Library Logo">
-
 ## -onlinefix
 1. 确保你已经安装了解锁器，并入库了对应游戏。
 2. 通过 Steam 游戏列表找到对应游戏，右键游戏 > 选择属性 > 启动选项的输入框中输入 `-onlinefix`，需要双方都使用这种方式进入。
