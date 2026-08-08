@@ -1,6 +1,6 @@
 # 联机修复
 
-<img src="./src/assets/icon.png" width="128" height="128" alt="HM-ST-Library Logo">
+<img src="../src/assets/icon.png" width="128" height="128" alt="HM-ST-Library Logo">
 
 ## -onlinefix
 1. 通过游戏列表，右键游戏 > 选择属性 > 启动选项的输入框中输入 `-onlinefix`，需要双方都使用这种方式进入。
